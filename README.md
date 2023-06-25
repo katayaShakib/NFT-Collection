@@ -8,7 +8,7 @@ Whitelisted users, are able to mint a NFT for free.
 
 Other users need to pay 0.01 ETH to mint a NFT.
 
-Have deleted the front-end since this is a simple enough contract.
+I Have deleted the front-end since this is a simple enough contract.
 
 You can simply tinker with the contract by minting NFTs through Etherscan, as I have verified the contract on it.
 
