@@ -4,13 +4,13 @@ There are a total of 20 Crypto Devs NFTs that can ever exist.
 
 User's are allowed to mint only 1 NFT with one transaction.
 
-Whitelisted users, are able to mint a NFT for free.
+Whitelisted users, are able to mint an NFT for free.
 
-Other users need to pay 0.01 ETH to mint a NFT.
+Other users need to pay 0.01 ETH to mint an NFT.
 
 I Have deleted the front-end since this is a simple enough contract.
 
-You can simply tinker with the contract by minting NFTs through Etherscan, as I have verified the contract on it.
+You can simply tinker with the contract by minting an NFT through Etherscan, as I have verified the contract on it.
 
 Go to https://sepolia.etherscan.io/ and search up my contract address "0x96B091A0c0235846Daac59301bC16A6f7e43C9bf", and go to the Contract tab and then Write Contract.
 
